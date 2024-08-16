@@ -60,7 +60,7 @@ Once the app is running, you can input the title of a movie you like, and the sy
 
 ## 👨‍💻 Author
 
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+- **Your Name** - [GitHub Profile](https://github.com/iamajayraj)
 
 ## 📄 License
 
@@ -68,4 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize the content as per your specific project details!
