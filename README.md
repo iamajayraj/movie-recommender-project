@@ -4,6 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Movie Recommendation System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        h2 {
+            color: #34495e;
+        }
+        ul, ol {
+            margin: 10px 0 20px 20px;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
     <h1>🎬 Movie Recommendation System</h1>
@@ -61,7 +95,7 @@ cd movie-recommendation-system</code></pre>
     </ul>
     
     <h2>👨‍💻 Author</h2>
-    <p><strong>Your Name</strong> - <a href="https://github.com/yourusername">GitHub Profile</a></p>
+    <p><strong>Your Name</strong> - <a href="https://github.com/iamajayraj">GitHub Profile</a></p>
     
     <h2>📄 License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
