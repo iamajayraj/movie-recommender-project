@@ -6,4 +6,4 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/1CQSziK2o-kfoHvlPeIcNswO6KIse0qRz/view?usp=sharing" alt="project-screenshot" width="400" height="400/">
+<img src="https://drive.google.com/file/d/1CQSziK2o-kfoHvlPeIcNswO6KIse0qRz/view?usp=sharing" alt="project-screenshot" width="1477" height="750/">
