@@ -1,5 +1,3 @@
-The app is live at :  https://movie-recommender-project-c18m.onrender.com/
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
