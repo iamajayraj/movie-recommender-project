@@ -10,6 +10,7 @@
     <p>Welcome to the <strong>Movie Recommendation System</strong> project! This project leverages data science techniques to build a recommendation engine that suggests movies based on various features like genres, cast, and more. It's hosted as a user-friendly web application using Streamlit.</p>
     
     <h2>🚀 Project Overview</h2>
+    
     <p>This project was developed to create a system that recommends movies similar to a user's favorite films. It uses data from the TMDB 5000 Movies dataset, which includes extensive information on movies such as genres, cast, crew, keywords, and more.</p>
     
     <h3>Features:</h3>
