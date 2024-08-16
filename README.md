@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+
+You can access the live version of the project here:
+
+[View Live Demo](https://movie-recommender-project-c18m.onrender.com/)
 
 ---
 
@@ -61,10 +66,6 @@ Once the app is running, you can input the title of a movie you like, and the sy
 ## 👨‍💻 Author
 
 - **Your Name** - [GitHub Profile](https://github.com/iamajayraj)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
